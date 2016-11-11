@@ -133,6 +133,13 @@ h1 {
 	width: 30%;
 }
 
+.img_box_2 {
+	padding: 2px;
+	float: right;
+	margin-left: 15px;
+	width: 35%;
+}
+
 .por_box {
 	box-shadow: 0 2px 4px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 	padding: 2px;
